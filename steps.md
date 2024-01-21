@@ -7,11 +7,6 @@
 `Add GPT Partition`
 ```
 Size (max 0.0G):  [2G]
-Format:           [btrfs]
-Mount:            [/boot]
-```
-```
-Size (max 0.0G):  [2G]
 Format:           [swap]
 Mount:            [/]
 ```
