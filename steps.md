@@ -11,6 +11,11 @@ Format:           [btrfs]
 Mount:            [/boot]
 ```
 ```
+Size (max 0.0G):  [2G]
+Format:           [swap]
+Mount:            [/]
+```
+```
 Size (max 0.0G):  []
 Format:           [btrfs]
 Mount:            [/]
