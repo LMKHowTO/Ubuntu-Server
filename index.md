@@ -1,0 +1,15 @@
+# UBUNTU SERVER
+- Instalación
+  - Particionado
+  - Instalar servidor OpenSSH
+- Iniciar Sesion SSH vía PowerShell
+- Contraseña para usuario root
+  - Permitir que el usuario root use contraseña propia
+  - Añadir contraseña a usuario root
+- Autentificación por llave SSH
+  - Creación de la llave SSH
+  - Importación de la llave SSH
+    - Mediante Posh-SSH (RECOMENDADO)
+    - Mediante WinSCP
+  - Bloquear acceso mediante contraseña a SSH
+- Reiniciar servicio SSH
