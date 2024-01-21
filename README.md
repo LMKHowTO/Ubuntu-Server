@@ -1,4 +1,5 @@
-#Una humilde guía fácil para configurar `Ubuntu Server`
+#QUEESESTO
+Una humilde guía fácil para configurar `Ubuntu Server`
 Con este repositorio no pretendo ayudar a nadie por malo que suene, sino que, lo que busco es tener mis archivos de texto `guias`
 guardadas en la nube y encuentro que GitHub es perfecto para dicho proposito, teniendo en cuenta que para guardar comandos es maravilloso.
 De todas formas el repositorio está público para, precisamente quien busque usarlo.
